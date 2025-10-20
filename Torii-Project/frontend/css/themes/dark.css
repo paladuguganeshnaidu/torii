@@ -1,3 +1,0 @@
-/* Dark theme */
-:root { --bg:#0f1724; --text:#e6eef6; }
-body { background:#0f1724; color: var(--text); }

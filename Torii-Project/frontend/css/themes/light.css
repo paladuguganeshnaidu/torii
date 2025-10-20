@@ -1,3 +1,0 @@
-/* Light theme */
-:root { --bg:#ffffff; --text:#0b1220; }
-body { background:#ffffff; color: var(--text); }
